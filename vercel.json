@@ -1,4 +1,5 @@
 {
-  "buildCommand": "npm install --legacy-peer-deps && ng build --prod",
-  "installCommand": "npm install --legacy-peer-deps"
+  "installCommand": "npm ci --legacy-peer-deps",
+  "buildCommand": "ng build --prod",
+  "nodeVersion": "18.x"
 }
