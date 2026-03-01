@@ -1,13 +1,3 @@
-# Software Developer Portfolio using Angular ⚡️ 
-## A clean, beautiful and responsive portfolio template for Developers!
-
-<p align="center"> 
-  <kbd>
-<img src="./src/assets/images/portfolio.gif"></img>
-  </kbd>
-</p>
-
-
 ## Sections 
 ✔️ Summary and About me\
 ✔️ Skills\
@@ -17,9 +7,8 @@
 ✔️ Open Source Projects Connected with Github\
 ✔️ Contact me\
 ✔️ Github Profile
-To view a live example, **[click here](https://sarthak-agrawal.me/)**
 
-## Getting Started 🚀
+## Getting Started 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 You'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer.
@@ -32,7 +21,7 @@ Angular@8.0.2 or higher
 ```
 
 
-## How To Use 🔧
+## How To Use 
 
 From your command line, clone and run AngularFolio:
 ```bash
