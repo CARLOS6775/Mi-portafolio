@@ -3,9 +3,9 @@
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
-    "start": "node --openssl-legacy-provider ./node_modules/.bin/ng serve",
-    "build": "node --openssl-legacy-provider ./node_modules/.bin/ng build",
-    "test": "node --openssl-legacy-provider ./node_modules/.bin/ng test",
+    "start": "ng serve",
+    "build": "ng build --prod",
+    "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e"
   },
