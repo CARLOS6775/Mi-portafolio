@@ -6,17 +6,18 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./skills.component.scss']
 })
 export class SkillsComponent implements OnInit {
-  skillsSection = {
-    title: "What I do💁‍♂️",
-    subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
-    skills: [
-      "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications",
-      "⚡ Creating application backend in Node, Express & Flask",
-      "⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks",
-      "⚡ Integration of third party services such as Firebase/ Heroku/ AWS",
-      "⚡ Experience of working with Computer Vision and NLP projects"
-    ]
-  };
+skillsSection = {
+  title: "Lo que hago",
+  subTitle: "DESARROLLADOR FULL STACK EN FORMACIÓN CON ENFOQUE EN ARQUITECTURA LIMPIA",
+  skills: [
+    "⚡ Desarrollo frontend con Angular, Signals y formularios reactivos",
+    "⚡ Backend con C#, Entity Framework y diseño de APIs REST",
+    "⚡ Implementación de Clean Architecture, DTOs y patrón Repositorio",
+    "⚡ Control de versiones con Git y flujos de trabajo colaborativos",
+    "⚡ Estilos responsivos con Tailwind CSS, Grid y Flexbox",
+    "⚡ Nociones de ciberseguridad práctica mediante competencias CTF"
+  ]
+};
   constructor() { }
 
   ngOnInit(): void {
